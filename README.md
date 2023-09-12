@@ -1,6 +1,8 @@
 Android Dev Summit 2022 Speed Challenge
 ==================
 
+https://github.com/nilam24/androiddevchallengecompse/blob/main/README-template.md
+
 Note: This repository was used for the ADS and is not being maintained. As of Oct 2022 it works on Dolphin..Flamingo and uses AGP 7.3.0.
 
 # Instructions for contestants
